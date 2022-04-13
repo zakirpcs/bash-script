@@ -1,4 +1,11 @@
 #!/bin/bash
+#-------------------------------------
+# Name: SFTP User add		     -
+# Developer: Md. Zakir Hossain       -
+# Mail: zakirpcs@gmail.com           -
+# Version: 1.1                       -
+# Release Date: 31-01-2022           -
+#-------------------------------------
 # Script to add a user to Linux system
 
 if [ $(id -u) -eq 0 ]; then
